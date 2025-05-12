@@ -1,0 +1,9 @@
+*.pyc
+data/
+__pycache__/
+check_points_all/checkpoints/
+*.pth
+*.jpg
+venv/
+.idea/
+wandb/
